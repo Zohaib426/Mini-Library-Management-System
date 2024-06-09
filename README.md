@@ -15,4 +15,5 @@ A simple and mini library management system with two main roles: Admin and User/
 **Return Books:** Students can return books they have borrowed.<br>
 
 **Working:**
-Download **Mini-Library-Management-System code file** connect database file to database and set location on db.php file. 
+**To run on localhost XAMPP**
+Download **Mini-Library-Management-System code file** connect database file(library_managment.sql) to Database MyPHPadmin page and configuer location on db.php file. 
