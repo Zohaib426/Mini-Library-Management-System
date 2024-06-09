@@ -15,4 +15,4 @@ A simple and mini library management system with two main roles: Admin and User/
 **Return Books:** Students can return books they have borrowed.<br>
 
 **Working:**
-Download **Mini-Library-Management-System.zip** file connect database file to database and set location on db.php file. 
+Download **Mini-Library-Management-System code file** connect database file to database and set location on db.php file. 
